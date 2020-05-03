@@ -1,0 +1,6 @@
+name: FuseCore
+author: BinCodeDE
+version: 1.0.0
+main: net.fusemc.core.CorePlugin
+
+commands:
